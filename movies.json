@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "rating": 2.5
+    },
+    {
+        "id": 2,
+        "title": "The Lion King",
+        "year": 2019,
+        "rating": 5
+    },
+    {
+        "id": 3,
+        "title": "Toy Story 4",
+        "year": 2019,
+        "rating": 0.5
+    },
+    {
+        "id": 4,
+        "title": "Captain Marvel",
+        "year": 2019,
+        "rating": 1
+    },
+    {
+        "id": 5,
+        "title": "Spider-Man: Far From Home",
+        "year": 2017,
+        "rating": 1.5
+    },
+    {
+        "id": 6,
+        "title": "Aladdin",
+        "year": 2019,
+        "rating": 2
+    },
+    {
+        "id": 7,
+        "title": "Frozen II*",
+        "year": 2019,
+        "rating": 2.5
+    },
+    {
+        "id": 8,
+        "title": "Joker*",
+        "year": 2019,
+        "rating": 3
+    },
+    {
+        "id": 9,
+        "title": "It Chapter Two*",
+        "year": 2019,
+        "rating": 4.5
+    },
+    {
+        "id": 10,
+        "title": "Us",
+        "year": 2019,
+        "rating": 3.5
+    }
+
+]
